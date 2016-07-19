@@ -2,4 +2,8 @@ asdasdas
 ok you are fine
 haha
 
+<<<<<<< HEAD
 old
+=======asdasdas
+new
+>>>>>>> 92ec67f7dbfb0e4d602eb4f33445293d20164b3d
